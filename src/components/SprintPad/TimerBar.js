@@ -60,7 +60,7 @@ const TimerBar = (props) => {
 
 
   return (
-    <Box p={hasText? 1: 0}>
+    <Box p={hasText ? 1 : 0}>
       <LinearProgress
         variant="determinate"
         value={timeLeftToBarAmount()}
