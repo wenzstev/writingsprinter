@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/writing-sprinter/static/css/main.27f190fb.chunk.css",
-    "main.js": "/writing-sprinter/static/js/main.638ed181.chunk.js",
-    "main.js.map": "/writing-sprinter/static/js/main.638ed181.chunk.js.map",
-    "runtime-main.js": "/writing-sprinter/static/js/runtime-main.f38568e9.js",
-    "runtime-main.js.map": "/writing-sprinter/static/js/runtime-main.f38568e9.js.map",
-    "static/js/2.81b8afea.chunk.js": "/writing-sprinter/static/js/2.81b8afea.chunk.js",
-    "static/js/2.81b8afea.chunk.js.map": "/writing-sprinter/static/js/2.81b8afea.chunk.js.map",
-    "index.html": "/writing-sprinter/index.html",
-    "precache-manifest.ee2a91b7b8b9b8708accd331a099c52e.js": "/writing-sprinter/precache-manifest.ee2a91b7b8b9b8708accd331a099c52e.js",
-    "service-worker.js": "/writing-sprinter/service-worker.js",
-    "static/css/main.27f190fb.chunk.css.map": "/writing-sprinter/static/css/main.27f190fb.chunk.css.map",
-    "static/js/2.81b8afea.chunk.js.LICENSE.txt": "/writing-sprinter/static/js/2.81b8afea.chunk.js.LICENSE.txt",
-    "static/media/jeans.jpg": "/writing-sprinter/static/media/jeans.5e775dbd.jpg",
-    "static/media/leafiron.jpg": "/writing-sprinter/static/media/leafiron.8166ce75.jpg",
-    "static/media/logo.svg": "/writing-sprinter/static/media/logo.5d5d9eef.svg"
+    "main.css": "/writingsprinter/static/css/main.27f190fb.chunk.css",
+    "main.js": "/writingsprinter/static/js/main.b809b006.chunk.js",
+    "main.js.map": "/writingsprinter/static/js/main.b809b006.chunk.js.map",
+    "runtime-main.js": "/writingsprinter/static/js/runtime-main.0c35c0b7.js",
+    "runtime-main.js.map": "/writingsprinter/static/js/runtime-main.0c35c0b7.js.map",
+    "static/js/2.81b8afea.chunk.js": "/writingsprinter/static/js/2.81b8afea.chunk.js",
+    "static/js/2.81b8afea.chunk.js.map": "/writingsprinter/static/js/2.81b8afea.chunk.js.map",
+    "index.html": "/writingsprinter/index.html",
+    "precache-manifest.90f7f0efcce159474513e59894bc8d12.js": "/writingsprinter/precache-manifest.90f7f0efcce159474513e59894bc8d12.js",
+    "service-worker.js": "/writingsprinter/service-worker.js",
+    "static/css/main.27f190fb.chunk.css.map": "/writingsprinter/static/css/main.27f190fb.chunk.css.map",
+    "static/js/2.81b8afea.chunk.js.LICENSE.txt": "/writingsprinter/static/js/2.81b8afea.chunk.js.LICENSE.txt",
+    "static/media/jeans.jpg": "/writingsprinter/static/media/jeans.5e775dbd.jpg",
+    "static/media/leafiron.jpg": "/writingsprinter/static/media/leafiron.8166ce75.jpg",
+    "static/media/logo.svg": "/writingsprinter/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f38568e9.js",
+    "static/js/runtime-main.0c35c0b7.js",
     "static/js/2.81b8afea.chunk.js",
     "static/css/main.27f190fb.chunk.css",
-    "static/js/main.638ed181.chunk.js"
+    "static/js/main.b809b006.chunk.js"
   ]
 }
